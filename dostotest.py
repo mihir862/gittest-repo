@@ -4,3 +4,5 @@ f = open('myfile.txt', 'r')
 text = f.read()
 print(text)
 f.close()
+
+#<this is version V2
